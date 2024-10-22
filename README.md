@@ -76,3 +76,10 @@ This Arduino project integrates multiple sensors to capture various data, proces
 
 This code continuously reads data from multiple sensors, processes it to calculate orientation (roll, pitch, yaw) and other environmental parameters (pressure, temperature, humidity, proximity), and transmits this data to another device using Serial1. It uses the Madgwick filter for sensor fusion and applies error corrections to the sensor readings. The setup ensures the program initializes correctly, and the loop function handles ongoing data processing and transmission.
 
+<div align="center">
+  <a href="https://maazsalman.org/">
+    <img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" alt="gh" />
+  </a>
+  <p> Explore More! 🚀</p>
+</div>
+
